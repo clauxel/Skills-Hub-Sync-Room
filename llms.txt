@@ -1,0 +1,11 @@
+# Skills Hub Sync Room
+
+Skills Hub Sync Room is a SaaS workspace for skills-hub.
+
+Website: https://skillshubsync.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: skills-hub
+Type: SaaS
+Default plan: team
+
+Public boundary: docs-only repository; no production source code or secrets.
